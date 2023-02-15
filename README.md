@@ -1,4 +1,4 @@
-- 
+
 
 <!-- 动态打字标题 -->
 
@@ -17,19 +17,21 @@
 
 <!-- 个人&仓库信息 -->
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OblivionTime&include_all_commits=true&show_icons=true&theme=chartreuse-dark" />
-
+ 
 ### Info
 
 :crystal_ball:Front End Engineer
 
 :pager: https://blog.csdn.net/a1309525802
 
+
+:pager: https://juejin.cn/user/3236586350975175
+
 :inbox_tray: obliviontime@163.com
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OblivionTime&layout=compact&theme=chartreuse-dark" />
 
 
-
+ <hr/>
 <!-- 个人技能信息 -->
 
 ### Knowledge
@@ -45,7 +47,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Mrakdown" src="https://img.shields.io/badge/-Markdown-292326?style=flat-square&logo=markdown" />
 </p>
-
+ <hr/>
 <!-- 常用工具信息 -->
 
 ### Tools
@@ -59,28 +61,24 @@
 </p>
 
 
-
-
-
-
-
----
-
 <!-- 访客数统计徽标 -->
 
 <div align="left"> 
   <img src="https://komarev.com/ghpvc/?username=OblivionTime" />
 </div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OblivionTime&layout=compact&theme=chartreuse-dark" />
 
-<!-- 推荐项目 -->
 
+<!-- 推荐项目 --> 
 ### RECOMMEND
 <p>
   <a href='https://github.com/OblivionTime/HLRTC'><img  src="https://files.catbox.moe/jx5bfu.png" /></a>
+  <hr/>
    <a href='https://github.com/OblivionTime/electron-demo'><img src="https://files.catbox.moe/mfb4tx.png" /></a>
+    <hr/>
    <a href='https://github.com/OblivionTime/vue-element-admin-template-simple'><img  src="https://files.catbox.moe/4ru3zl.png" /></a>
 <p>
-<p></p>
+ <hr/>
   
 ### END
 <div align="center"><img src="https://files.catbox.moe/1vx8ra.jpg" /></div>
